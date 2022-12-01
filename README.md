@@ -1,2 +1,2 @@
 # data-analyst
-my first project
+Data Analyst Portfolio Project Covid 19 - SQL Data Exploratio
